@@ -1,0 +1,131 @@
+﻿<cms_webpartcontainer version="10.0">
+  <NewDataSet>
+    <cms_webpartcontainer>
+      <ContainerID>16</ContainerID>
+      <ContainerDisplayName>Orange box</ContainerDisplayName>
+      <ContainerName>OrangeBox</ContainerName>
+      <ContainerTextBefore>&lt;div class="orangeBox"&gt;
+&lt;h3 class="title"&gt;{%ContainerTitle%}&lt;/h3&gt;
+&lt;div class="content"&gt;</ContainerTextBefore>
+      <ContainerTextAfter>&lt;/div&gt;
+&lt;/div&gt;</ContainerTextAfter>
+      <ContainerGUID>e6abcd4b-e99b-4ed9-b23c-041938c4f6be</ContainerGUID>
+      <ContainerLastModified>2012-08-28T14:56:59.683+02:00</ContainerLastModified>
+      <ContainerCSS xml:space="preserve">
+</ContainerCSS>
+    </cms_webpartcontainer>
+    <cms_webpartcontainer>
+      <ContainerID>3</ContainerID>
+      <ContainerDisplayName>Search box</ContainerDisplayName>
+      <ContainerName>SearchBox</ContainerName>
+      <ContainerTextBefore>&lt;div class="boxSearchLeft"&gt;
+  &lt;div class="boxSearchLeftTop"&gt;&lt;div&gt;&lt;/div&gt;&lt;/div&gt;</ContainerTextBefore>
+      <ContainerTextAfter>&lt;div class="boxSearchLeftBot"&gt;&lt;div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;</ContainerTextAfter>
+      <ContainerGUID>6ef5e754-61f3-4e8b-854e-2299224c007a</ContainerGUID>
+      <ContainerLastModified>2012-08-28T14:56:59.703+02:00</ContainerLastModified>
+      <ContainerCSS></ContainerCSS>
+    </cms_webpartcontainer>
+    <cms_webpartcontainer>
+      <ContainerID>17</ContainerID>
+      <ContainerDisplayName>Black box</ContainerDisplayName>
+      <ContainerName>BlackBox</ContainerName>
+      <ContainerTextBefore>&lt;div class="blackBox"&gt;
+  &lt;h2 class="title"&gt;{%ContainerTitle%}&lt;/h2&gt;
+  &lt;div class="content"&gt;
+    </ContainerTextBefore>
+      <ContainerTextAfter>
+  &lt;/div&gt;
+&lt;/div&gt;</ContainerTextAfter>
+      <ContainerGUID>8dd8abba-d7ea-473c-a194-436add312719</ContainerGUID>
+      <ContainerLastModified>2013-08-23T09:31:08.4494244+02:00</ContainerLastModified>
+      <ContainerCSS></ContainerCSS>
+    </cms_webpartcontainer>
+    <cms_webpartcontainer>
+      <ContainerID>20</ContainerID>
+      <ContainerDisplayName>UL List</ContainerDisplayName>
+      <ContainerName>ULList</ContainerName>
+      <ContainerTextBefore>&lt;ul class="doctors"&gt;
+  </ContainerTextBefore>
+      <ContainerTextAfter>
+&lt;/ul&gt;</ContainerTextAfter>
+      <ContainerGUID>b2017075-93f8-4a50-8a1d-5bd15ebf932c</ContainerGUID>
+      <ContainerLastModified>2017-05-30T11:11:05.902299+02:00</ContainerLastModified>
+    </cms_webpartcontainer>
+    <cms_webpartcontainer>
+      <ContainerID>18</ContainerID>
+      <ContainerDisplayName>Gray box with header</ContainerDisplayName>
+      <ContainerName>GrayBoxWithHeader</ContainerName>
+      <ContainerTextBefore>&lt;div class="grayBoxWH"&gt;&lt;h2&gt;{%ContainerTitle%}&lt;/h2&gt;
+&lt;div class="inner"&gt;</ContainerTextBefore>
+      <ContainerTextAfter>&lt;/div&gt;&lt;/div&gt;</ContainerTextAfter>
+      <ContainerGUID>91bf2937-b812-4fb8-8589-700e7d8a87e1</ContainerGUID>
+      <ContainerLastModified>2013-06-13T13:35:38.95+02:00</ContainerLastModified>
+      <ContainerCSS></ContainerCSS>
+    </cms_webpartcontainer>
+    <cms_webpartcontainer>
+      <ContainerID>6</ContainerID>
+      <ContainerDisplayName>Content padding</ContainerDisplayName>
+      <ContainerName>Padding.Content</ContainerName>
+      <ContainerTextBefore>&lt;div class="ContentPadding"&gt;</ContainerTextBefore>
+      <ContainerTextAfter>&lt;/div&gt;</ContainerTextAfter>
+      <ContainerGUID>2102cc78-54f5-4e85-9977-746d8b67c136</ContainerGUID>
+      <ContainerLastModified>2012-08-28T14:56:59.547+02:00</ContainerLastModified>
+      <ContainerCSS></ContainerCSS>
+    </cms_webpartcontainer>
+    <cms_webpartcontainer>
+      <ContainerID>21</ContainerID>
+      <ContainerDisplayName>Boxform</ContainerDisplayName>
+      <ContainerName>Boxform</ContainerName>
+      <ContainerTextBefore>&lt;div class="box form"&gt;
+&lt;h2&gt;{% ContainerTitle %}&lt;/h2&gt;
+  </ContainerTextBefore>
+      <ContainerTextAfter>
+&lt;/div&gt;</ContainerTextAfter>
+      <ContainerGUID>6b7b7d49-59f4-455b-bdbc-871dd0e730ed</ContainerGUID>
+      <ContainerLastModified>2017-05-29T16:54:10.7456941+02:00</ContainerLastModified>
+    </cms_webpartcontainer>
+    <cms_webpartcontainer>
+      <ContainerID>19</ContainerID>
+      <ContainerDisplayName>Gray box</ContainerDisplayName>
+      <ContainerName>Box.Gray</ContainerName>
+      <ContainerTextBefore>&lt;div class="grayBox"&gt;</ContainerTextBefore>
+      <ContainerTextAfter>&lt;/div&gt;</ContainerTextAfter>
+      <ContainerGUID>d48d9b0d-12a4-4c3c-9c41-b5a8aefec6ee</ContainerGUID>
+      <ContainerLastModified>2012-08-28T14:56:59.643+02:00</ContainerLastModified>
+      <ContainerCSS></ContainerCSS>
+    </cms_webpartcontainer>
+    <cms_webpartcontainersite>
+      <ContainerID>3</ContainerID>
+      <SiteID>4</SiteID>
+    </cms_webpartcontainersite>
+    <cms_webpartcontainersite>
+      <ContainerID>6</ContainerID>
+      <SiteID>4</SiteID>
+    </cms_webpartcontainersite>
+    <cms_webpartcontainersite>
+      <ContainerID>16</ContainerID>
+      <SiteID>4</SiteID>
+    </cms_webpartcontainersite>
+    <cms_webpartcontainersite>
+      <ContainerID>17</ContainerID>
+      <SiteID>4</SiteID>
+    </cms_webpartcontainersite>
+    <cms_webpartcontainersite>
+      <ContainerID>18</ContainerID>
+      <SiteID>4</SiteID>
+    </cms_webpartcontainersite>
+    <cms_webpartcontainersite>
+      <ContainerID>19</ContainerID>
+      <SiteID>4</SiteID>
+    </cms_webpartcontainersite>
+    <cms_webpartcontainersite>
+      <ContainerID>20</ContainerID>
+      <SiteID>4</SiteID>
+    </cms_webpartcontainersite>
+    <cms_webpartcontainersite>
+      <ContainerID>21</ContainerID>
+      <SiteID>4</SiteID>
+    </cms_webpartcontainersite>
+  </NewDataSet>
+</cms_webpartcontainer>

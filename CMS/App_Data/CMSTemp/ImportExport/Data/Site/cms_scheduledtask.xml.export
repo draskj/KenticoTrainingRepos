@@ -1,0 +1,149 @@
+﻿<cms_scheduledtask version="10.0">
+  <NewDataSet>
+    <cms_scheduledtask>
+      <TaskID>33391</TaskID>
+      <TaskName>Content.Publish</TaskName>
+      <TaskDisplayName>Content publishing</TaskDisplayName>
+      <TaskAssemblyName>CMS.DocumentEngine</TaskAssemblyName>
+      <TaskClass>CMS.DocumentEngine.ContentPublisher</TaskClass>
+      <TaskInterval>minute;11/3/2010 12:38:30 PM;1;00:00:00;23:59:00;Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday</TaskInterval>
+      <TaskData>&lt;data&gt;&lt;/data&gt;</TaskData>
+      <TaskLastRunTime>2017-05-31T16:01:42.4009448+02:00</TaskLastRunTime>
+      <TaskNextRunTime>2017-05-31T16:02:30+02:00</TaskNextRunTime>
+      <TaskSiteID>4</TaskSiteID>
+      <TaskDeleteAfterLastRun>false</TaskDeleteAfterLastRun>
+      <TaskServerName></TaskServerName>
+      <TaskGUID>095ee8d2-8f2d-47b0-9fce-464e39d0aab1</TaskGUID>
+      <TaskLastModified>2017-05-31T16:01:42.4079637+02:00</TaskLastModified>
+      <TaskExecutions>137</TaskExecutions>
+      <TaskRunInSeparateThread>true</TaskRunInSeparateThread>
+      <TaskUseExternalService>false</TaskUseExternalService>
+      <TaskAllowExternalService>false</TaskAllowExternalService>
+      <TaskCondition></TaskCondition>
+      <TaskRunIndividually>false</TaskRunIndividually>
+      <TaskEnabled>true</TaskEnabled>
+      <TaskIsRunning>false</TaskIsRunning>
+    </cms_scheduledtask>
+    <cms_scheduledtask>
+      <TaskID>33392</TaskID>
+      <TaskName>TranslationsRetrieval</TaskName>
+      <TaskDisplayName>Translation retrieval</TaskDisplayName>
+      <TaskAssemblyName>CMS.TranslationServices</TaskAssemblyName>
+      <TaskClass>CMS.TranslationServices.TranslationsScheduledTask</TaskClass>
+      <TaskInterval>day;1/5/2012 2:03:51 PM;1;Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday</TaskInterval>
+      <TaskData></TaskData>
+      <TaskNextRunTime>2013-07-20T07:44:59+02:00</TaskNextRunTime>
+      <TaskSiteID>4</TaskSiteID>
+      <TaskDeleteAfterLastRun>false</TaskDeleteAfterLastRun>
+      <TaskServerName></TaskServerName>
+      <TaskGUID>413b7b87-72b8-4c26-a156-85e691bc1617</TaskGUID>
+      <TaskLastModified>2013-07-19T07:44:59.96+02:00</TaskLastModified>
+      <TaskExecutions>0</TaskExecutions>
+      <TaskRunInSeparateThread>true</TaskRunInSeparateThread>
+      <TaskUseExternalService>false</TaskUseExternalService>
+      <TaskAllowExternalService>true</TaskAllowExternalService>
+      <TaskCondition></TaskCondition>
+      <TaskRunIndividually>false</TaskRunIndividually>
+      <TaskEnabled>false</TaskEnabled>
+      <TaskIsRunning>false</TaskIsRunning>
+    </cms_scheduledtask>
+    <cms_scheduledtask>
+      <TaskID>33393</TaskID>
+      <TaskName>Staging.Synchronization</TaskName>
+      <TaskDisplayName>Content synchronization</TaskDisplayName>
+      <TaskAssemblyName>CMS.SynchronizationEngine</TaskAssemblyName>
+      <TaskClass>CMS.Synchronization.StagingWorker</TaskClass>
+      <TaskInterval>hour;11/8/2007 3:55:14 PM;1;00:00:00;23:59:00;Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday</TaskInterval>
+      <TaskData></TaskData>
+      <TaskNextRunTime>2007-11-08T15:55:14+01:00</TaskNextRunTime>
+      <TaskSiteID>4</TaskSiteID>
+      <TaskDeleteAfterLastRun>false</TaskDeleteAfterLastRun>
+      <TaskServerName></TaskServerName>
+      <TaskGUID>13ec1cf4-3ac0-45c1-93a6-acfdcd6538df</TaskGUID>
+      <TaskLastModified>2012-04-04T14:39:30.84+02:00</TaskLastModified>
+      <TaskExecutions>0</TaskExecutions>
+      <TaskRunInSeparateThread>true</TaskRunInSeparateThread>
+      <TaskUseExternalService>true</TaskUseExternalService>
+      <TaskAllowExternalService>true</TaskAllowExternalService>
+      <TaskCondition></TaskCondition>
+      <TaskRunIndividually>false</TaskRunIndividually>
+      <TaskEnabled>false</TaskEnabled>
+      <TaskIsRunning>false</TaskIsRunning>
+    </cms_scheduledtask>
+    <cms_scheduledtask>
+      <TaskID>33394</TaskID>
+      <TaskName>Ecommerce.DeleteOldShoppingCarts</TaskName>
+      <TaskDisplayName>Clear content of old shopping carts</TaskDisplayName>
+      <TaskAssemblyName>CMS.Ecommerce</TaskAssemblyName>
+      <TaskClass>CMS.Ecommerce.ShoppingCartCleaner</TaskClass>
+      <TaskInterval>day;1/30/2007 11:50:00 AM;1;Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday</TaskInterval>
+      <TaskData></TaskData>
+      <TaskLastRunTime>2017-05-31T12:16:52.9670647+02:00</TaskLastRunTime>
+      <TaskNextRunTime>2017-06-01T11:50:00+02:00</TaskNextRunTime>
+      <TaskSiteID>4</TaskSiteID>
+      <TaskDeleteAfterLastRun>false</TaskDeleteAfterLastRun>
+      <TaskServerName></TaskServerName>
+      <TaskGUID>14caafb9-f4d5-4ee6-9e5d-d6f8c557f98a</TaskGUID>
+      <TaskLastModified>2017-05-31T12:16:53.0111814+02:00</TaskLastModified>
+      <TaskExecutions>1</TaskExecutions>
+      <TaskResourceID>111</TaskResourceID>
+      <TaskRunInSeparateThread>true</TaskRunInSeparateThread>
+      <TaskUseExternalService>true</TaskUseExternalService>
+      <TaskAllowExternalService>true</TaskAllowExternalService>
+      <TaskCondition></TaskCondition>
+      <TaskRunIndividually>false</TaskRunIndividually>
+      <TaskEnabled>true</TaskEnabled>
+      <TaskIsRunning>false</TaskIsRunning>
+    </cms_scheduledtask>
+    <cms_scheduledtask>
+      <TaskID>33395</TaskID>
+      <TaskName>UsersDeleteNonActivatedUser</TaskName>
+      <TaskDisplayName>Users delete non activated user</TaskDisplayName>
+      <TaskAssemblyName>CMS.Membership</TaskAssemblyName>
+      <TaskClass>CMS.Membership.DeleteNonActivatedUser</TaskClass>
+      <TaskInterval>hour;10/2/2008 6:14:26 PM;1;00:00:00;23:59:00;Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday</TaskInterval>
+      <TaskData></TaskData>
+      <TaskLastRunTime>2017-05-31T15:14:57.1186062+02:00</TaskLastRunTime>
+      <TaskNextRunTime>2017-05-31T16:14:26+02:00</TaskNextRunTime>
+      <TaskSiteID>4</TaskSiteID>
+      <TaskDeleteAfterLastRun>false</TaskDeleteAfterLastRun>
+      <TaskServerName></TaskServerName>
+      <TaskGUID>74689bde-2542-4b11-ac31-ec6345a927e9</TaskGUID>
+      <TaskLastModified>2017-05-31T15:14:57.305832+02:00</TaskLastModified>
+      <TaskExecutions>11</TaskExecutions>
+      <TaskRunInSeparateThread>true</TaskRunInSeparateThread>
+      <TaskUseExternalService>true</TaskUseExternalService>
+      <TaskAllowExternalService>true</TaskAllowExternalService>
+      <TaskCondition></TaskCondition>
+      <TaskRunIndividually>false</TaskRunIndividually>
+      <TaskEnabled>true</TaskEnabled>
+      <TaskIsRunning>false</TaskIsRunning>
+    </cms_scheduledtask>
+    <cms_scheduledtask>
+      <TaskID>33396</TaskID>
+      <TaskName>Newsletter.CheckBounces</TaskName>
+      <TaskDisplayName>Check bounced e-mails</TaskDisplayName>
+      <TaskAssemblyName>CMS.Newsletters</TaskAssemblyName>
+      <TaskClass>CMS.Newsletters.BounceChecker</TaskClass>
+      <TaskInterval>hour;3/17/2011 6:42:00 AM;1;00:00:00;23:59:00;Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday</TaskInterval>
+      <TaskData></TaskData>
+      <TaskLastRunTime>2017-05-31T16:01:42.4029505+02:00</TaskLastRunTime>
+      <TaskNextRunTime>2017-05-31T16:42:00+02:00</TaskNextRunTime>
+      <TaskLastResult>Monitoring is not enabled for this site.</TaskLastResult>
+      <TaskSiteID>4</TaskSiteID>
+      <TaskDeleteAfterLastRun>false</TaskDeleteAfterLastRun>
+      <TaskServerName></TaskServerName>
+      <TaskGUID>0e5fc4db-2707-40d2-97ef-ef1a3a5c0c04</TaskGUID>
+      <TaskLastModified>2017-05-31T16:01:42.4029505+02:00</TaskLastModified>
+      <TaskExecutions>11</TaskExecutions>
+      <TaskResourceID>108</TaskResourceID>
+      <TaskRunInSeparateThread>true</TaskRunInSeparateThread>
+      <TaskUseExternalService>false</TaskUseExternalService>
+      <TaskAllowExternalService>true</TaskAllowExternalService>
+      <TaskCondition></TaskCondition>
+      <TaskRunIndividually>false</TaskRunIndividually>
+      <TaskEnabled>true</TaskEnabled>
+      <TaskIsRunning>false</TaskIsRunning>
+    </cms_scheduledtask>
+  </NewDataSet>
+</cms_scheduledtask>

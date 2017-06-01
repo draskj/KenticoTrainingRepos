@@ -1,0 +1,16 @@
+﻿<cms_site version="10.0">
+  <NewDataSet>
+    <cms_site>
+      <SiteID>4</SiteID>
+      <SiteName>MedioClinic</SiteName>
+      <SiteDisplayName>Medio Clinic</SiteDisplayName>
+      <SiteDescription>Sample blank web site</SiteDescription>
+      <SiteStatus>RUNNING</SiteStatus>
+      <SiteDomainName>localhost</SiteDomainName>
+      <SiteGUID>a39c95a8-7ee4-4bd8-85db-65066116d1d7</SiteGUID>
+      <SiteLastModified>2017-05-30T20:45:02.8891741+02:00</SiteLastModified>
+      <SiteIsOffline>false</SiteIsOffline>
+      <SiteOfflineMessage></SiteOfflineMessage>
+    </cms_site>
+  </NewDataSet>
+</cms_site>

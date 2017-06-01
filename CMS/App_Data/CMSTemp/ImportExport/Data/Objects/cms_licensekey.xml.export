@@ -1,0 +1,43 @@
+﻿<cms_licensekey version="10.0">
+  <NewDataSet>
+    <cms_licensekey>
+      <LicenseKeyID>2</LicenseKeyID>
+      <LicenseDomain>127.0.0.1</LicenseDomain>
+      <LicenseKey>CX10-20170518-yilxou</LicenseKey>
+      <LicenseEdition>X</LicenseEdition>
+      <LicenseExpiration>5/18/2017</LicenseExpiration>
+      <LicenseServers>0</LicenseServers>
+    </cms_licensekey>
+    <cms_licensekey>
+      <LicenseKeyID>4</LicenseKeyID>
+      <LicenseDomain>localhost</LicenseDomain>
+      <LicenseKey>DOMAIN:localhost
+PRODUCT:CX10
+EXPIRATION:20170628
+SERVERS:1
+bxyBzNE0Ul5gIpkTCGxnm2n+TmCZZoMOIe+ucFnUhrxC/pIDT7BfRaDkI2nffWz8usu5FPZZlHMxecDV8S7bIO34FeoMcMGdxV77ozBKlPQIgFQKu9QpdeApOG2aO6bTKwTQZDcedQrvnpvIWjs9Oy08BepCT8qhKUoddDTAy9LUPk4hpIK7iWNN3VQzBajw8Qlhj83za024h5FXOtYoWshnw7k7cEGk1rv/YUk+i0M2a0Lx8rRv5kNJicqfNhmwNx4/A3fqmPIF42iZgOUpx7LPYrowk/0ZBoF4XIiA6LfEedRykdI3DTphqXB0gId+qffk6d1Np0hHuZ0ceWhgfA==</LicenseKey>
+      <LicenseEdition>X</LicenseEdition>
+      <LicenseExpiration>6/28/2017</LicenseExpiration>
+      <LicenseServers>1</LicenseServers>
+    </cms_licensekey>
+    <export_task>
+      <TaskID>1</TaskID>
+      <TaskTitle>Delete License key 'localhost'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_LicenseKey&gt;
+  &lt;LicenseKeyID&gt;1&lt;/LicenseKeyID&gt;
+  &lt;LicenseDomain&gt;localhost&lt;/LicenseDomain&gt;
+  &lt;LicenseKey&gt;CX10-20170518-yilxou&lt;/LicenseKey&gt;
+  &lt;LicenseEdition&gt;X&lt;/LicenseEdition&gt;
+  &lt;LicenseExpiration&gt;5/18/2017&lt;/LicenseExpiration&gt;
+  &lt;LicenseServers&gt;0&lt;/LicenseServers&gt;
+&lt;/CMS_LicenseKey&gt;
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2017-05-29T10:04:01.0293917+02:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.licensekey</TaskObjectType>
+      <TaskObjectID>1</TaskObjectID>
+    </export_task>
+  </NewDataSet>
+</cms_licensekey>

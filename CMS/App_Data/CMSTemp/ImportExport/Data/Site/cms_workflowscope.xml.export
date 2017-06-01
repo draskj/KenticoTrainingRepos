@@ -1,0 +1,24 @@
+﻿<cms_workflowscope version="10.0">
+  <NewDataSet>
+    <cms_workflowscope>
+      <ScopeID>4</ScopeID>
+      <ScopeStartingPath>/Doctors</ScopeStartingPath>
+      <ScopeWorkflowID>216</ScopeWorkflowID>
+      <ScopeSiteID>4</ScopeSiteID>
+      <ScopeGUID>43737f7d-84c1-4ca4-8712-58705af0f825</ScopeGUID>
+      <ScopeLastModified>2017-05-31T09:49:55.8949998+02:00</ScopeLastModified>
+      <ScopeExcludeChildren>false</ScopeExcludeChildren>
+      <ScopeExcluded>true</ScopeExcluded>
+    </cms_workflowscope>
+    <cms_workflowscope>
+      <ScopeID>5</ScopeID>
+      <ScopeStartingPath>/</ScopeStartingPath>
+      <ScopeWorkflowID>216</ScopeWorkflowID>
+      <ScopeSiteID>4</ScopeSiteID>
+      <ScopeGUID>a01ff9dd-1112-43d5-af7e-a22261ee6c59</ScopeGUID>
+      <ScopeLastModified>2017-05-31T09:50:54.1758282+02:00</ScopeLastModified>
+      <ScopeExcludeChildren>false</ScopeExcludeChildren>
+      <ScopeExcluded>false</ScopeExcluded>
+    </cms_workflowscope>
+  </NewDataSet>
+</cms_workflowscope>

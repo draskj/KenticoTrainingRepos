@@ -1,0 +1,30 @@
+﻿<cms_resourcestring version="10.0">
+  <NewDataSet>
+    <cms_resourcestring>
+      <StringID>2</StringID>
+      <StringKey>documentation.webpartproperties.displaypreviousnextautomatically</StringKey>
+      <StringIsCustom>true</StringIsCustom>
+      <StringLoadGeneration>0</StringLoadGeneration>
+      <StringGUID>05708a20-e75d-4e82-8fb7-c594278857c8</StringGUID>
+    </cms_resourcestring>
+    <cms_resourcestring>
+      <StringID>1</StringID>
+      <StringKey>documentation.webpartproperties.pagesize</StringKey>
+      <StringIsCustom>true</StringIsCustom>
+      <StringLoadGeneration>0</StringLoadGeneration>
+      <StringGUID>7d9e6f8f-9827-4f77-831b-cfeec8e945c0</StringGUID>
+    </cms_resourcestring>
+    <cms_resourcetranslation>
+      <TranslationID>3</TranslationID>
+      <TranslationStringID>1</TranslationStringID>
+      <TranslationText>Determines the maximum number of records displayed per page.</TranslationText>
+      <TranslationCultureID>50</TranslationCultureID>
+    </cms_resourcetranslation>
+    <cms_resourcetranslation>
+      <TranslationID>2</TranslationID>
+      <TranslationStringID>2</TranslationStringID>
+      <TranslationText>If enabled, the "go to previous page" and "go to next page" buttons of the pager will be displayed only when there is no other way of accessing the previous or next page through the pager.</TranslationText>
+      <TranslationCultureID>50</TranslationCultureID>
+    </cms_resourcetranslation>
+  </NewDataSet>
+</cms_resourcestring>

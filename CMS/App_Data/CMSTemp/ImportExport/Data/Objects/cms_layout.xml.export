@@ -1,0 +1,29 @@
+﻿<cms_layout version="10.0">
+  <NewDataSet>
+    <cms_layout>
+      <LayoutID>150</LayoutID>
+      <LayoutCodeName>MedioClinic-TwoColumns</LayoutCodeName>
+      <LayoutDisplayName>MedioClinic- Two columns</LayoutDisplayName>
+      <LayoutCode>&lt;section id="main"&gt;
+			&lt;div class="g-w"&gt;
+				&lt;div class="g-p"&gt;
+					&lt;div class="g-g"&gt;
+						&lt;div class="g-u-1 g-u-lg-1-2"&gt;
+							&lt;cms:CMSWebPartZone ZoneID="ZoneLeftColumn" runat="server" /&gt;
+						&lt;/div&gt;
+						&lt;div class="g-u-1 g-u-lg-1-2"&gt;
+							&lt;cms:CMSWebPartZone ZoneID="ZoneRightColumn" runat="server" /&gt;
+						&lt;/div&gt;
+					&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+		&lt;/section&gt;</LayoutCode>
+      <LayoutVersionGUID>7211f418-8b9d-4177-910f-a0b279044bce</LayoutVersionGUID>
+      <LayoutGUID>c03784f1-f809-4d39-954c-ecc0ab36edbe</LayoutGUID>
+      <LayoutLastModified>2017-05-29T14:20:06.3369896+02:00</LayoutLastModified>
+      <LayoutType>ascx</LayoutType>
+      <LayoutZoneCount>2</LayoutZoneCount>
+      <LayoutIsConvertible>false</LayoutIsConvertible>
+    </cms_layout>
+  </NewDataSet>
+</cms_layout>

@@ -1,0 +1,156 @@
+﻿<cms_pagetemplate version="10.0">
+  <NewDataSet>
+    <cms_pagetemplate>
+      <PageTemplateID>25818</PageTemplateID>
+      <PageTemplateDisplayName>Ad-hoc: Sitemap</PageTemplateDisplayName>
+      <PageTemplateCodeName>ee298e4b-192e-4ee1-b4e0-120e847c5e4a</PageTemplateCodeName>
+      <PageTemplateFile></PageTemplateFile>
+      <PageTemplateCategoryID>210</PageTemplateCategoryID>
+      <PageTemplateWebParts>&lt;page&gt;&lt;webpartzone id="zoneA" v="1"&gt;&lt;webpart controlid="HierarchicalViewer" guid="6423ee36-3960-4143-b040-05056997804e" type="DocumentHierarchicalViewer" v="1"&gt;&lt;property name="alternatingtransformationname"&gt;&lt;/property&gt;&lt;property name="cachedependencies"&gt;##DEFAULT##
+&lt;/property&gt;&lt;property name="cacheitemname"&gt;&lt;/property&gt;&lt;property name="cacheminutes"&gt;&lt;/property&gt;&lt;property name="cat_open_ajax"&gt;&lt;/property&gt;&lt;property name="cat_open_output_filter"&gt;&lt;/property&gt;&lt;property name="cat_open_performance"&gt;&lt;/property&gt;&lt;property name="cat_open_time zones"&gt;&lt;/property&gt;&lt;property name="cat_open_visibility"&gt;&lt;/property&gt;&lt;property name="categoryname"&gt;&lt;/property&gt;&lt;property name="checkpermissions"&gt;False&lt;/property&gt;&lt;property name="classnames"&gt;&lt;/property&gt;&lt;property name="columns"&gt;&lt;/property&gt;&lt;property name="combinewithdefaultculture"&gt;&lt;/property&gt;&lt;property name="container"&gt;&lt;/property&gt;&lt;property name="containercssclass"&gt;&lt;/property&gt;&lt;property name="containercustomcontent"&gt;&lt;/property&gt;&lt;property name="containerhideonsubpages"&gt;False&lt;/property&gt;&lt;property name="containertitle"&gt;&lt;/property&gt;&lt;property name="contentafter"&gt;&lt;/property&gt;&lt;property name="contentbefore"&gt;&lt;/property&gt;&lt;property name="controlid"&gt;HierarchicalViewer&lt;/property&gt;&lt;property name="culturecode"&gt;&lt;/property&gt;&lt;property name="currentpage"&gt;CMS.PagerTransformations.General-CurrentPage&lt;/property&gt;&lt;property name="customtimezone"&gt;&lt;/property&gt;&lt;property name="datasourcename"&gt;&lt;/property&gt;&lt;property name="directpage"&gt;&lt;/property&gt;&lt;property name="disablemacros"&gt;False&lt;/property&gt;&lt;property name="disableviewstate"&gt;False&lt;/property&gt;&lt;property name="displayfirstlastautomatically"&gt;False&lt;/property&gt;&lt;property name="displaypreviousnextautomatically"&gt;False&lt;/property&gt;&lt;property name="displaytoroles"&gt;&lt;/property&gt;&lt;property name="enableoutputfilter"&gt;False&lt;/property&gt;&lt;property name="enablepaging"&gt;False&lt;/property&gt;&lt;property name="filtername"&gt;&lt;/property&gt;&lt;property name="filteroutduplicates"&gt;False&lt;/property&gt;&lt;property name="firstpage"&gt;CMS.PagerTransformations.General-FirstPage&lt;/property&gt;&lt;property name="firsttransformationname"&gt;&lt;/property&gt;&lt;property name="footertransformationname"&gt;&lt;/property&gt;&lt;property name="groupsize"&gt;10&lt;/property&gt;&lt;property name="headertransformationname"&gt;&lt;/property&gt;&lt;property name="hidecontrolforzerorows"&gt;True&lt;/property&gt;&lt;property name="hideheaderandfooterforsingleitem"&gt;False&lt;/property&gt;&lt;property name="hideonsubpages"&gt;False&lt;/property&gt;&lt;property name="hidepagerforsinglepage"&gt;True&lt;/property&gt;&lt;property name="hierarchicaldisplaymode"&gt;inner&lt;/property&gt;&lt;property name="hierarchicaltransformationname"&gt;mediaClinic.TransformsationsOwn.Transform&lt;/property&gt;&lt;property name="instanceguid"&gt;6423ee36-3960-4143-b040-05056997804e&lt;/property&gt;&lt;property name="itemseparator"&gt;&lt;/property&gt;&lt;property name="lastpage"&gt;CMS.PagerTransformations.General-LastPage&lt;/property&gt;&lt;property name="lasttransformationname"&gt;&lt;/property&gt;&lt;property name="loadhierarchicaldata"&gt;True&lt;/property&gt;&lt;property name="loadpagesindividually"&gt;True&lt;/property&gt;&lt;property name="maxrelativelevel"&gt;-1&lt;/property&gt;&lt;property name="nestedcontrolsid"&gt;&lt;/property&gt;&lt;property name="newbuttontext"&gt;&lt;/property&gt;&lt;property name="nextgroup"&gt;CMS.PagerTransformations.General-NextGroup&lt;/property&gt;&lt;property name="nextpage"&gt;CMS.PagerTransformations.General-NextPage&lt;/property&gt;&lt;property name="orderby"&gt;&lt;/property&gt;&lt;property name="outputconverttablestodivs"&gt;none&lt;/property&gt;&lt;property name="outputfixattributes"&gt;True&lt;/property&gt;&lt;property name="outputfixhtml5"&gt;True&lt;/property&gt;&lt;property name="outputfixjavascript"&gt;True&lt;/property&gt;&lt;property name="outputfixlowercase"&gt;True&lt;/property&gt;&lt;property name="outputfixselfclose"&gt;True&lt;/property&gt;&lt;property name="outputresolveurls"&gt;True&lt;/property&gt;&lt;property name="pagerlayout"&gt;CMS.PagerTransformations.General-PagerLayout&lt;/property&gt;&lt;property name="pagermode"&gt;querystring&lt;/property&gt;&lt;property name="pagerposition"&gt;bottom&lt;/property&gt;&lt;property name="pages"&gt;CMS.PagerTransformations.General-Pages&lt;/property&gt;&lt;property name="pageseparator"&gt;CMS.PagerTransformations.General-PageSeparator&lt;/property&gt;&lt;property name="pagesize"&gt;10&lt;/property&gt;&lt;property name="partialcachedependencies"&gt;##DEFAULT##
+&lt;/property&gt;&lt;property name="partialcacheminutes"&gt;&lt;/property&gt;&lt;property name="path"&gt;/%&lt;/property&gt;&lt;property name="preservepartialcacheonpostback"&gt;False&lt;/property&gt;&lt;property name="previousgroup"&gt;CMS.PagerTransformations.General-PreviousGroup&lt;/property&gt;&lt;property name="previouspage"&gt;CMS.PagerTransformations.General-PreviousPage&lt;/property&gt;&lt;property name="querystringkey"&gt;&lt;/property&gt;&lt;property name="relatednodeisontheleftside"&gt;False&lt;/property&gt;&lt;property name="relationshipname"&gt;isrelatedto&lt;/property&gt;&lt;property name="relationshipwithnodeguid"&gt;00000000-0000-0000-0000-000000000000&lt;/property&gt;&lt;property name="resetscrollpositiononpostback"&gt;False&lt;/property&gt;&lt;property name="selectedfooteritemtransformationname"&gt;&lt;/property&gt;&lt;property name="selectedheaderitemtransformationname"&gt;&lt;/property&gt;&lt;property name="selecteditemtransformationname"&gt;&lt;/property&gt;&lt;property name="selectonlypublished"&gt;True&lt;/property&gt;&lt;property name="selecttopn"&gt;&lt;/property&gt;&lt;property name="separatortransformationname"&gt;&lt;/property&gt;&lt;property name="showdeletebutton"&gt;False&lt;/property&gt;&lt;property name="showeditbutton"&gt;False&lt;/property&gt;&lt;property name="showeditdeletebuttons"&gt;False&lt;/property&gt;&lt;property name="showfordocumenttypes"&gt;&lt;/property&gt;&lt;property name="shownewbutton"&gt;False&lt;/property&gt;&lt;property name="singletransformationname"&gt;&lt;/property&gt;&lt;property name="sitename"&gt;&lt;/property&gt;&lt;property name="timezonetype"&gt;inherit&lt;/property&gt;&lt;property name="transformationname"&gt;&lt;/property&gt;&lt;property name="usehierarchicalorder"&gt;True&lt;/property&gt;&lt;property name="useupdatepanel"&gt;False&lt;/property&gt;&lt;property name="visible"&gt;True&lt;/property&gt;&lt;property name="webparttitle"&gt;&lt;/property&gt;&lt;property name="webparttype"&gt;DocumentHierarchicalViewer&lt;/property&gt;&lt;property name="wherecondition"&gt;&lt;/property&gt;&lt;property name="zerorowstext"&gt;No data found&lt;/property&gt;&lt;/webpart&gt;&lt;/webpartzone&gt;&lt;/page&gt;</PageTemplateWebParts>
+      <PageTemplateIsReusable>false</PageTemplateIsReusable>
+      <PageTemplateInheritPageLevels>\</PageTemplateInheritPageLevels>
+      <PageTemplateLayout>&lt;cms:CMSWebPartZone ZoneID="zoneA" runat="server" /&gt;</PageTemplateLayout>
+      <PageTemplateVersionGUID>1a73235f-1603-4abd-b2d3-cd68342f7b23</PageTemplateVersionGUID>
+      <PageTemplateGUID>ee298e4b-192e-4ee1-b4e0-120e847c5e4a</PageTemplateGUID>
+      <PageTemplateLastModified>2017-05-30T15:26:52.2029646+02:00</PageTemplateLastModified>
+      <PageTemplateSiteID>4</PageTemplateSiteID>
+      <PageTemplateType>portal</PageTemplateType>
+      <PageTemplateLayoutType>ascx</PageTemplateLayoutType>
+      <PageTemplateCloneAsAdHoc>false</PageTemplateCloneAsAdHoc>
+      <PageTemplateNodeGUID>7dcfe98e-1ecc-4c20-9d48-2d58bcef9029</PageTemplateNodeGUID>
+    </cms_pagetemplate>
+    <cms_pagetemplate>
+      <PageTemplateID>25822</PageTemplateID>
+      <PageTemplateDisplayName>Ad-hoc: Search results</PageTemplateDisplayName>
+      <PageTemplateCodeName>22042c37-2363-42c0-a470-2074a5870f54</PageTemplateCodeName>
+      <PageTemplateDescription>Ad-hoc template for page "/Special pages/Search results"</PageTemplateDescription>
+      <PageTemplateFile></PageTemplateFile>
+      <PageTemplateCategoryID>210</PageTemplateCategoryID>
+      <PageTemplateWebParts>&lt;page&gt;&lt;webpartzone id="zoneA" v="1"&gt;&lt;webpart controlid="SmartSearchResults" guid="3383b286-1347-4673-9700-a1e18db8f288" type="SearchResults" v="1"&gt;&lt;property name="attachmentsorderby"&gt;&lt;/property&gt;&lt;property name="attachmentswhere"&gt;&lt;/property&gt;&lt;property name="blockfieldonlysearch"&gt;False&lt;/property&gt;&lt;property name="cat_open_ajax"&gt;&lt;/property&gt;&lt;property name="cat_open_attachment search settings"&gt;&lt;/property&gt;&lt;property name="cat_open_output_filter"&gt;&lt;/property&gt;&lt;property name="cat_open_performance"&gt;&lt;/property&gt;&lt;property name="cat_open_time zones"&gt;&lt;/property&gt;&lt;property name="cat_open_visibility"&gt;&lt;/property&gt;&lt;property name="checkpermissions"&gt;False&lt;/property&gt;&lt;property name="combinewithdefaultculture"&gt;&lt;/property&gt;&lt;property name="container"&gt;&lt;/property&gt;&lt;property name="containercssclass"&gt;&lt;/property&gt;&lt;property name="containercustomcontent"&gt;&lt;/property&gt;&lt;property name="containerhideonsubpages"&gt;False&lt;/property&gt;&lt;property name="containertitle"&gt;&lt;/property&gt;&lt;property name="contentafter"&gt;&lt;/property&gt;&lt;property name="contentbefore"&gt;&lt;/property&gt;&lt;property name="controlid"&gt;SmartSearchResults&lt;/property&gt;&lt;property name="culturecode"&gt;&lt;/property&gt;&lt;property name="currentpage"&gt;CMS.PagerTransformations.General-CurrentPage&lt;/property&gt;&lt;property name="customtimezone"&gt;&lt;/property&gt;&lt;property name="disablemacros"&gt;False&lt;/property&gt;&lt;property name="disableviewstate"&gt;False&lt;/property&gt;&lt;property name="displayfirstlastautomatically"&gt;False&lt;/property&gt;&lt;property name="displaypreviousnextautomatically"&gt;False&lt;/property&gt;&lt;property name="displaytoroles"&gt;&lt;/property&gt;&lt;property name="documenttypes"&gt;&lt;/property&gt;&lt;property name="dofuzzysearch"&gt;False&lt;/property&gt;&lt;property name="enableoutputfilter"&gt;False&lt;/property&gt;&lt;property name="firstpage"&gt;CMS.PagerTransformations.General-FirstPage&lt;/property&gt;&lt;property name="groupsize"&gt;10&lt;/property&gt;&lt;property name="hideonsubpages"&gt;False&lt;/property&gt;&lt;property name="hidepagerforsinglepage"&gt;True&lt;/property&gt;&lt;property name="indexes"&gt;MedioClinic-DoctorIndex&lt;/property&gt;&lt;property name="instanceguid"&gt;3383b286-1347-4673-9700-a1e18db8f288&lt;/property&gt;&lt;property name="lastpage"&gt;CMS.PagerTransformations.General-LastPage&lt;/property&gt;&lt;property name="maxpages"&gt;200&lt;/property&gt;&lt;property name="maxresults"&gt;&lt;/property&gt;&lt;property name="nextgroup"&gt;CMS.PagerTransformations.General-NextGroup&lt;/property&gt;&lt;property name="nextpage"&gt;CMS.PagerTransformations.General-NextPage&lt;/property&gt;&lt;property name="noresultstext"&gt;No results were found.&lt;/property&gt;&lt;property name="outputconverttablestodivs"&gt;none&lt;/property&gt;&lt;property name="outputfixattributes"&gt;True&lt;/property&gt;&lt;property name="outputfixhtml5"&gt;True&lt;/property&gt;&lt;property name="outputfixjavascript"&gt;True&lt;/property&gt;&lt;property name="outputfixlowercase"&gt;True&lt;/property&gt;&lt;property name="outputfixselfclose"&gt;True&lt;/property&gt;&lt;property name="outputresolveurls"&gt;True&lt;/property&gt;&lt;property name="pagerlayout"&gt;CMS.PagerTransformations.General-PagerLayout&lt;/property&gt;&lt;property name="pages"&gt;CMS.PagerTransformations.General-Pages&lt;/property&gt;&lt;property name="pageseparator"&gt;CMS.PagerTransformations.General-PageSeparator&lt;/property&gt;&lt;property name="pagesize"&gt;10&lt;/property&gt;&lt;property name="pagingmode"&gt;querystring&lt;/property&gt;&lt;property name="partialcachedependencies"&gt;&lt;/property&gt;&lt;property name="partialcacheminutes"&gt;&lt;/property&gt;&lt;property name="path"&gt;&lt;/property&gt;&lt;property name="preservepartialcacheonpostback"&gt;False&lt;/property&gt;&lt;property name="previousgroup"&gt;CMS.PagerTransformations.General-PreviousGroup&lt;/property&gt;&lt;property name="previouspage"&gt;CMS.PagerTransformations.General-PreviousPage&lt;/property&gt;&lt;property name="querystringkey"&gt;page&lt;/property&gt;&lt;property name="resetscrollpositiononpostback"&gt;False&lt;/property&gt;&lt;property name="searchcondition"&gt;&lt;/property&gt;&lt;property name="searchinattachments"&gt;False&lt;/property&gt;&lt;property name="searchoneachpageload"&gt;False&lt;/property&gt;&lt;property name="searchoptions"&gt;basicsearch&lt;/property&gt;&lt;property name="searchsort"&gt;&lt;/property&gt;&lt;property name="searchtextrequired"&gt;True&lt;/property&gt;&lt;property name="searchtextvalidationfailedcssclass"&gt;&lt;/property&gt;&lt;property name="searchtextvalidationfailedtext"&gt;&lt;/property&gt;&lt;property name="showfordocumenttypes"&gt;&lt;/property&gt;&lt;property name="showparsingerrors"&gt;False&lt;/property&gt;&lt;property name="timezonetype"&gt;inherit&lt;/property&gt;&lt;property name="transformationname"&gt;CMS.Root.SmartSearchResults&lt;/property&gt;&lt;property name="useupdatepanel"&gt;False&lt;/property&gt;&lt;property name="visible"&gt;True&lt;/property&gt;&lt;property name="webparttitle"&gt;&lt;/property&gt;&lt;property name="webparttype"&gt;SearchResults&lt;/property&gt;&lt;/webpart&gt;&lt;/webpartzone&gt;&lt;/page&gt;</PageTemplateWebParts>
+      <PageTemplateIsReusable>false</PageTemplateIsReusable>
+      <PageTemplateInheritPageLevels>\</PageTemplateInheritPageLevels>
+      <PageTemplateLayout>&lt;cms:CMSWebPartZone ZoneID="zoneA" runat="server" /&gt;</PageTemplateLayout>
+      <PageTemplateVersionGUID>7ecf3380-8849-4a25-9d0d-68dcc2be2896</PageTemplateVersionGUID>
+      <PageTemplateGUID>22042c37-2363-42c0-a470-2074a5870f54</PageTemplateGUID>
+      <PageTemplateLastModified>2017-05-31T15:12:37.0721431+02:00</PageTemplateLastModified>
+      <PageTemplateSiteID>4</PageTemplateSiteID>
+      <PageTemplateType>portal</PageTemplateType>
+      <PageTemplateLayoutType>ascx</PageTemplateLayoutType>
+      <PageTemplateCloneAsAdHoc>false</PageTemplateCloneAsAdHoc>
+      <PageTemplateNodeGUID>05d44032-8cab-4125-bd37-99bcc64058dc</PageTemplateNodeGUID>
+    </cms_pagetemplate>
+    <cms_pagetemplate>
+      <PageTemplateID>25819</PageTemplateID>
+      <PageTemplateDisplayName>Ad-hoc: Contact Us</PageTemplateDisplayName>
+      <PageTemplateCodeName>799f5043-a455-48c5-a0b6-3f47d5337aae</PageTemplateCodeName>
+      <PageTemplateFile></PageTemplateFile>
+      <PageTemplateCategoryID>210</PageTemplateCategoryID>
+      <PageTemplateLayoutID>150</PageTemplateLayoutID>
+      <PageTemplateWebParts>&lt;page&gt;&lt;webpartzone id="ZoneRightColumn" v="1"&gt;&lt;webpart controlid="Address" guid="33fa9369-ec11-4c03-a86e-0ff23745876b" type="editabletext" v="1"&gt;&lt;property name="cat_open_ajax"&gt;&lt;/property&gt;&lt;property name="cat_open_output_filter"&gt;&lt;/property&gt;&lt;property name="cat_open_performance"&gt;&lt;/property&gt;&lt;property name="cat_open_time zones"&gt;&lt;/property&gt;&lt;property name="cat_open_visibility"&gt;&lt;/property&gt;&lt;property name="checkpermissions"&gt;False&lt;/property&gt;&lt;property name="container"&gt;&lt;/property&gt;&lt;property name="containercssclass"&gt;&lt;/property&gt;&lt;property name="containercustomcontent"&gt;&lt;/property&gt;&lt;property name="containerhideonsubpages"&gt;False&lt;/property&gt;&lt;property name="containertitle"&gt;&lt;/property&gt;&lt;property name="contentafter"&gt;&lt;/property&gt;&lt;property name="contentbefore"&gt;&lt;/property&gt;&lt;property name="controlid"&gt;Address&lt;/property&gt;&lt;property name="customtimezone"&gt;&lt;/property&gt;&lt;property name="defaulttext"&gt;&amp;lt;h2&amp;gt;MEDIO clinic&amp;lt;/h2&amp;gt;
+MEDIO clinic&amp;lt;br /&amp;gt;
+7A Kentico street, Bedford, NH 03110, USA&amp;lt;br /&amp;gt;
+&amp;lt;a href="~/tel:+1-541-754-3010"&amp;gt;(541) 754-3010&amp;lt;/a&amp;gt;&lt;/property&gt;&lt;property name="dialogheight"&gt;&lt;/property&gt;&lt;property name="dialogwidth"&gt;&lt;/property&gt;&lt;property name="disablemacros"&gt;False&lt;/property&gt;&lt;property name="disableviewstate"&gt;False&lt;/property&gt;&lt;property name="displaytoroles"&gt;&lt;/property&gt;&lt;property name="enableoutputfilter"&gt;False&lt;/property&gt;&lt;property name="encodetext"&gt;False&lt;/property&gt;&lt;property name="hideonsubpages"&gt;False&lt;/property&gt;&lt;property name="htmlareatoolbar"&gt;&lt;/property&gt;&lt;property name="htmlareatoolbarlocation"&gt;In&lt;/property&gt;&lt;property name="imageautoresize"&gt;&amp;lt;AutoResize&amp;gt;
+  &amp;lt;autoresize&amp;gt;noresize&amp;lt;/autoresize&amp;gt;
+  &amp;lt;autoresize_width /&amp;gt;
+  &amp;lt;autoresize_height /&amp;gt;
+  &amp;lt;autoresize_maxsidesize /&amp;gt;
+&amp;lt;/AutoResize&amp;gt;&lt;/property&gt;&lt;property name="instanceguid"&gt;33fa9369-ec11-4c03-a86e-0ff23745876b&lt;/property&gt;&lt;property name="maxlength"&gt;&lt;/property&gt;&lt;property name="minlength"&gt;&lt;/property&gt;&lt;property name="outputconverttablestodivs"&gt;none&lt;/property&gt;&lt;property name="outputfixattributes"&gt;True&lt;/property&gt;&lt;property name="outputfixhtml5"&gt;True&lt;/property&gt;&lt;property name="outputfixjavascript"&gt;True&lt;/property&gt;&lt;property name="outputfixlowercase"&gt;True&lt;/property&gt;&lt;property name="outputfixselfclose"&gt;True&lt;/property&gt;&lt;property name="outputresolveurls"&gt;True&lt;/property&gt;&lt;property name="partialcachedependencies"&gt;##DEFAULT##
+&lt;/property&gt;&lt;property name="partialcacheminutes"&gt;&lt;/property&gt;&lt;property name="preservepartialcacheonpostback"&gt;False&lt;/property&gt;&lt;property name="regiontitle"&gt;&lt;/property&gt;&lt;property name="regiontype"&gt;HtmlEditor&lt;/property&gt;&lt;property name="resolvedynamiccontrols"&gt;True&lt;/property&gt;&lt;property name="selectonlypublished"&gt;False&lt;/property&gt;&lt;property name="showfordocumenttypes"&gt;&lt;/property&gt;&lt;property name="timezonetype"&gt;inherit&lt;/property&gt;&lt;property name="useparentcontent"&gt;False&lt;/property&gt;&lt;property name="useupdatepanel"&gt;False&lt;/property&gt;&lt;property name="visible"&gt;True&lt;/property&gt;&lt;property name="webparttitle"&gt;Address&lt;/property&gt;&lt;property name="webparttype"&gt;editabletext&lt;/property&gt;&lt;property name="wordwrap"&gt;True&lt;/property&gt;&lt;/webpart&gt;&lt;/webpartzone&gt;&lt;/page&gt;</PageTemplateWebParts>
+      <PageTemplateIsReusable>false</PageTemplateIsReusable>
+      <PageTemplateInheritPageLevels>\</PageTemplateInheritPageLevels>
+      <PageTemplateLayout>&lt;section id="main"&gt;
+			&lt;div class="g-w"&gt;
+				&lt;div class="g-p"&gt;
+					&lt;div class="g-g"&gt;
+						&lt;div class="g-u-1 g-u-lg-1-2"&gt;
+							&lt;cms:CMSWebPartZone ZoneID="ZoneLeftColumn" runat="server" /&gt;
+						&lt;/div&gt;
+						&lt;div class="g-u-1 g-u-lg-1-2"&gt;
+							&lt;cms:CMSWebPartZone ZoneID="ZoneRightColumn" runat="server" /&gt;
+						&lt;/div&gt;
+					&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+		&lt;/section&gt;</PageTemplateLayout>
+      <PageTemplateVersionGUID>ce08975a-0fb1-4104-bb7f-68b1f9272176</PageTemplateVersionGUID>
+      <PageTemplateGUID>799f5043-a455-48c5-a0b6-3f47d5337aae</PageTemplateGUID>
+      <PageTemplateLastModified>2017-05-29T14:26:04.5565243+02:00</PageTemplateLastModified>
+      <PageTemplateSiteID>4</PageTemplateSiteID>
+      <PageTemplateType>portal</PageTemplateType>
+      <PageTemplateLayoutType>ascx</PageTemplateLayoutType>
+      <PageTemplateCloneAsAdHoc>false</PageTemplateCloneAsAdHoc>
+      <PageTemplateNodeGUID>a3bbaee9-6796-4574-a27a-a859076534ac</PageTemplateNodeGUID>
+    </cms_pagetemplate>
+    <cms_pagetemplate>
+      <PageTemplateID>25820</PageTemplateID>
+      <PageTemplateDisplayName>Ad-hoc: Ask a question</PageTemplateDisplayName>
+      <PageTemplateCodeName>dc78c156-b5e3-4e55-9bc1-ec883a92e8ca</PageTemplateCodeName>
+      <PageTemplateFile></PageTemplateFile>
+      <PageTemplateCategoryID>210</PageTemplateCategoryID>
+      <PageTemplateWebParts>&lt;page /&gt;</PageTemplateWebParts>
+      <PageTemplateIsReusable>false</PageTemplateIsReusable>
+      <PageTemplateInheritPageLevels>\</PageTemplateInheritPageLevels>
+      <PageTemplateLayout>&lt;section id="main"&gt;
+			&lt;div class="g-w"&gt;
+				&lt;div class="g-p"&gt;
+					&lt;div class="g-g"&gt;
+						&lt;div class="g-u-1 g-u-lg-1-2"&gt;
+							&lt;cms:CMSWebPartZone ZoneID="ZoneLeftColumn" runat="server" /&gt;
+						&lt;/div&gt;
+						&lt;div class="g-u-1 g-u-lg-1-2"&gt;
+							&lt;cms:CMSWebPartZone ZoneID="ZoneRightColumn" runat="server" /&gt;
+						&lt;/div&gt;
+					&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+		&lt;/section&gt;</PageTemplateLayout>
+      <PageTemplateVersionGUID>224c6509-ccd0-4f47-a0be-1236364dc25b</PageTemplateVersionGUID>
+      <PageTemplateGUID>dc78c156-b5e3-4e55-9bc1-ec883a92e8ca</PageTemplateGUID>
+      <PageTemplateLastModified>2017-05-29T15:15:26.6657905+02:00</PageTemplateLastModified>
+      <PageTemplateSiteID>4</PageTemplateSiteID>
+      <PageTemplateType>portal</PageTemplateType>
+      <PageTemplateLayoutType>ascx</PageTemplateLayoutType>
+      <PageTemplateCloneAsAdHoc>false</PageTemplateCloneAsAdHoc>
+      <PageTemplateNodeGUID>72ae727c-29cc-4387-bdfa-6dc05b0cdf6d</PageTemplateNodeGUID>
+    </cms_pagetemplate>
+    <cms_pagetemplatesite>
+      <PageTemplateID>25818</PageTemplateID>
+      <SiteID>4</SiteID>
+    </cms_pagetemplatesite>
+    <cms_pagetemplatesite>
+      <PageTemplateID>25819</PageTemplateID>
+      <SiteID>4</SiteID>
+    </cms_pagetemplatesite>
+    <cms_pagetemplatesite>
+      <PageTemplateID>25820</PageTemplateID>
+      <SiteID>4</SiteID>
+    </cms_pagetemplatesite>
+    <cms_pagetemplatecategory>
+      <CategoryID>43</CategoryID>
+      <CategoryDisplayName>All page templates</CategoryDisplayName>
+      <CategoryName>/</CategoryName>
+      <CategoryGUID>532264bf-95e9-4035-b4ce-fe403c81781a</CategoryGUID>
+      <CategoryLastModified>2016-11-15T09:56:47.6908089+01:00</CategoryLastModified>
+      <CategoryImagePath></CategoryImagePath>
+      <CategoryChildCount>28</CategoryChildCount>
+      <CategoryTemplateChildCount>0</CategoryTemplateChildCount>
+      <CategoryPath>/</CategoryPath>
+      <CategoryLevel>0</CategoryLevel>
+    </cms_pagetemplatecategory>
+    <cms_pagetemplatecategory>
+      <CategoryID>210</CategoryID>
+      <CategoryDisplayName>Ad-hoc</CategoryDisplayName>
+      <CategoryParentID>43</CategoryParentID>
+      <CategoryName>AdHoc</CategoryName>
+      <CategoryGUID>f1b695a0-77ee-4119-ad84-9d77c2504260</CategoryGUID>
+      <CategoryLastModified>2016-11-15T09:56:48.5798978+01:00</CategoryLastModified>
+      <CategoryImagePath></CategoryImagePath>
+      <CategoryChildCount>0</CategoryChildCount>
+      <CategoryTemplateChildCount>43</CategoryTemplateChildCount>
+      <CategoryPath>/AdHoc</CategoryPath>
+      <CategoryLevel>1</CategoryLevel>
+    </cms_pagetemplatecategory>
+  </NewDataSet>
+</cms_pagetemplate>
